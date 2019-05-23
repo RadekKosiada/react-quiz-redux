@@ -1,0 +1,1 @@
+// This file will help (by having only one file in which) to refer to all the possible actions for the app.
